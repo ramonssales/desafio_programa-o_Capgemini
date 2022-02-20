@@ -10,6 +10,6 @@ Para executar o programa, vá até o seguinte diretório:
 
 Estando no diretório, digite:
 
-`java questão_1.java` 
+`java Questao_1.java` 
 
 Em seguida, pressione ↵ Enter.
